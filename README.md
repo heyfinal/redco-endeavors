@@ -1,6 +1,11 @@
-# Redco Endeavors Brand Assets
+# Redco Endeavors — Brand Gallery
 
-Redco Endeavors, Inc. — Earthwork, Site Development, Utilities
-High-resolution brand imagery and wallpapers (3440×1440 UWQHD).
+Redco Endeavors, Inc. — **Earthwork · Site Development · Utilities**
 
-**Website:** redcoendeavors.com
+Live gallery: **https://heyfinal.github.io/redco-endeavors/**
+
+- `full/` — web-optimized JPEG (click-through, up to 3440px)
+- `thumb/` — gallery thumbnails
+- `index.html` — the gallery page
+
+redcoendeavors.com
